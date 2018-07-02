@@ -2,6 +2,9 @@
 
 これは Vue.js 勉強会用のソースコードです。
 
+スライドはこちら！！
+https://speakerdeck.com/po3rin/vue-dot-jsru-men-vueclikaraspahurontoendokai-fa-woxue-bu
+
 ## Contents
 
 * 基本的な Vue.js の機能
@@ -10,6 +13,3 @@
 * 動的 & 静的ルーティング
 * axios　による HTTP クライアント
 * Node.jsによるモックサーバー
-
-## 勉強会スライド
-作成中 ...
